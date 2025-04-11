@@ -1,0 +1,44 @@
+Prompt 1:
+How to implement custom data parsers in Java for DSL input?
+
+Prompt 2:
+Best way to handle units like KB, MB, GB in a parser?
+
+Prompt 3:
+Java approach to parse and convert human-readable time durations.
+
+Prompt 4:
+How to modify an ANTLR grammar to include new tokens for byte sizes?
+
+Prompt 5:
+Writing unit tests for new grammar rules in an ANTLR-based parser.
+
+Prompt 6:
+Parsing numeric values with units in Java and ensuring precision.
+
+Prompt 7:
+Handling invalid formats and edge cases in custom parsers.
+
+Prompt 8:
+How to integrate new parsers with existing compiler infrastructure?
+
+Prompt 9:
+How to convert a string like "1.5GB" into a byte value in Java?
+
+Prompt 10:
+Testing grammar updates in a multi-module Maven project.
+
+Prompt 11:
+Creating a directive for parsing time duration in a data wrangling pipeline.
+
+Prompt 12:
+Strategies for validating mixed token types in a string parser.
+
+Prompt 13:
+How to make grammar rules support decimal and whole number values?
+
+Prompt 14:
+How to write a RecipeCompiler-compatible parser for size and time values?
+
+Prompt 15:
+Handling plural vs singular unit variants like "minute" vs "minutes" in grammar.
